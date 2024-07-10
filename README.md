@@ -1,7 +1,3 @@
-Creating a README file for a multilingual translator application that incorporates text-to-speech, speech-to-text, and image-to-text functionalities involves providing clear instructions and explanations for users and potential contributors. Here’s a structured content outline for your README file:
-
----
-
 # Multilingual Translator
 
 ![Multilingual Translator](translator_logo.png)

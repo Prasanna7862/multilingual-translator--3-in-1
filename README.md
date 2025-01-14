@@ -1,6 +1,7 @@
 # Multilingual Translator
 
-![Multilingual Translator](translator_logo.png)
+![image](https://github.com/user-attachments/assets/4a0b5e92-56db-4b35-9a0f-928bd77dc3cc)
+
 
 ## Overview
 
